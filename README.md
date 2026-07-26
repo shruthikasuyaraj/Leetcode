@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
