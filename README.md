@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Depth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Union-Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Matrix
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
