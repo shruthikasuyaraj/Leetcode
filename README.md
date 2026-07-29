@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
