@@ -8,15 +8,15 @@ public:
     
     void push(int value) {
         stack.push_back(value);
-        if(minstack.empty()) minstack.push_back(value);
-        else{
-            minstack.push_back(min(value,minstack.back()));
-        }
+        if(minstack.empty() || value <= minstack.back())
+        minstack.push_back(value);
     }
     
     void pop() {
+        if(minstack.back()==stack.back()){
+            minstack.pop_back();
+        }
         stack.pop_back();
-        minstack.pop_back();
     }
     
     int top() {
