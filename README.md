@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
