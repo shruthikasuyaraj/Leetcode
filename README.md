@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0018-4sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
 ## Sliding Window
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shruthikasuyaraj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
