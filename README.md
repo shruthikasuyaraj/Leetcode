@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0455-assign-cookies) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
+| [0396-rotate-function](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0396-rotate-function) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0002-add-two-numbers) |
+| [0396-rotate-function](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0396-rotate-function) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shruthikasuyaraj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
