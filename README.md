@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0396-rotate-function) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shruthikasuyaraj/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shruthikasuyaraj/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -178,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
