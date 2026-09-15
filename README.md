@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0396-rotate-function](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0396-rotate-function) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
