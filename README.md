@@ -194,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0212-word-search-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shruthikasuyaraj/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
