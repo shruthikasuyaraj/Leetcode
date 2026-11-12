@@ -203,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1075-project-employees-i) |
 | [1280-students-and-examinations](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1517-find-users-with-valid-e-mails](https://github.com/shruthikasuyaraj/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
